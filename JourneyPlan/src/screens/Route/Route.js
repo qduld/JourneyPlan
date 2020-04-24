@@ -48,7 +48,6 @@ export default class Route extends Component {
                 getHeightForItem={({ item }) => 0}
                 numColumns={1}
                 keyExtractor={item => item.id}
-                style={styles.masonry}
             />
             <View style={styles.addRoute}>
                 <Ionicons style={styles.iconAdd} name={iconAdd} size={20} color={'white'} />
@@ -106,8 +105,6 @@ const styles = StyleSheet.create({
         alignItems:"stretch",
         justifyContent:"space-evenly",
         flexDirection:"column"
-    },
-    masonry:{
     },
     addRoute:{
         width,

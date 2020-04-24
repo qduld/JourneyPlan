@@ -15,6 +15,7 @@ import Route from '../screens/Route/Route';
 import RouteTop from '../screens/Route/RouteTop';
 
 import Person from '../screens/Person/Person';
+import PersonTop from '../screens/Person/PersonTop';
 
 // import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 import Ionicons from "react-native-vector-icons/Ionicons";
@@ -76,10 +77,16 @@ function HomeStackScreen() {
 // headerTitle: props => <TopOptions {...props} /> }}
 
 const PersonStack = createStackNavigator();
-function PersonStackScreen() {
+function PersonStackScreen( {navigation} ) {
   return (
     <PersonStack.Navigator>
-      <PersonStack.Screen name="Person" component={Person} />
+      <PersonStack.Screen name="Person" component={Person} 
+          options={{
+            title:'',
+            cardShadowEnabled:false,
+            headerTitle: props => <PersonTop {...navigation} /> 
+          }}
+      />
     </PersonStack.Navigator>
   );
 }
