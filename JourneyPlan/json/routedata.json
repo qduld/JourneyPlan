@@ -1,0 +1,24 @@
+{
+	"imgList": [{
+		    "id":"1",
+			"url": "../../assets/img/pragueCastle.png",
+			"type": "building",
+            "description":"Pražský hrad",
+            "locationNum":3
+		},
+		{
+			"id":"2",
+			"url": "../../assets/img/oldTownSquare.png",
+			"type": "building",
+            "description":"Staroměstské náměstí",
+            "locationNum":5
+		},
+		{
+			"id":"3",
+			"url": "../../assets/img/charlesBridge.png",
+			"type": "building",
+            "description":"Karlův most",
+            "locationNum":6
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"imgList": [{
+		    "id":"1",
+			"url": "../../assets/img/pragueCastle.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Pražský hrad"
+		},
+		{
+			"id":"2",
+			"url": "../../assets/img/oldTownSquare.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Staroměstské náměstí"
+		},
+		{
+			"id":"3",
+			"url": "../../assets/img/charlesBridge.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Karlův most"
+		},
+		{
+			"id":"4",
+			"url": "../../assets/img/astronomicalClock.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Stará radnice s orlojem"
+		},
+		{
+			"id":"5",
+			"url": "../../assets/img/dancingHouse.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Tančící dům"
+		},
+		{
+			"id":"6",
+			"url": "../../assets/img/vltava.png",
+			"type": "river",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Vltava"
+		},
+		{
+			"id":"7",
+			"url": "../../assets/img/goldenLane.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Zlatá ulička"
+		}
+	]
+}

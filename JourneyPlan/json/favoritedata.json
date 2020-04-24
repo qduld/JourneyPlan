@@ -1,0 +1,110 @@
+{
+    "mainComment":"I loved the beautiful flowers and the clear river water,the people is familier with me,so I love them",
+    "comments":[
+        {
+            "id":"1",
+            "name":"Alex Carluso",
+            "url":"./../assets/img/oldTownSquare.png",
+            "review":"So Crazy!!!",
+			"loveNum":"264",
+			"loveFlag":false
+        },
+        {
+            "id":"2",
+            "name":"Alen afosen",
+            "url":"./../assets/img/oldTownSquare.png",
+            "review":"I love it!!!",
+			"loveNum":"164",
+			"loveFlag":false
+        },
+        {
+            "id":"3",
+            "name":"Karen bulen",
+            "url":"./../assets/img/charlesBridge.png",
+            "review":"I can't image it!!!",
+			"loveNum":"64",
+			"loveFlag":false
+        },
+        {
+            "id":"4",
+            "name":"Jedmoe fanfolet",
+            "url":"./../assets/img/vltava.png",
+            "review":"Beautiful!!!",
+			"loveNum":"4",
+			"loveFlag":false
+        },
+        {
+            "id":"5",
+            "name":"Karen bulen",
+            "url":"./../assets/img/charlesBridge.png",
+            "review":"I can't image it!!!",
+			"loveNum":"64",
+			"loveFlag":false
+        },
+        {
+            "id":"6",
+            "name":"Jedmoe fanfolet",
+            "url":"./../assets/img/vltava.png",
+            "review":"Beautiful!!!",
+			"loveNum":"4",
+			"loveFlag":false
+        }
+    ],
+	"imgList": [{
+		    "id":"1",
+			"url": "../../assets/img/pragueCastle.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Pražský hrad"
+		},
+		{
+			"id":"2",
+			"url": "../../assets/img/oldTownSquare.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Staroměstské náměstí"
+		},
+		{
+			"id":"3",
+			"url": "../../assets/img/charlesBridge.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Karlův most"
+		},
+		{
+			"id":"4",
+			"url": "../../assets/img/astronomicalClock.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Stará radnice s orlojem"
+		},
+		{
+			"id":"5",
+			"url": "../../assets/img/dancingHouse.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Tančící dům"
+		},
+		{
+			"id":"6",
+			"url": "../../assets/img/vltava.png",
+			"type": "river",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Vltava"
+		},
+		{
+			"id":"7",
+			"url": "../../assets/img/goldenLane.png",
+			"type": "building",
+			"distance": "235m",
+			"loveNum": "264",
+			"description":"Zlatá ulička"
+		}
+	]
+}
